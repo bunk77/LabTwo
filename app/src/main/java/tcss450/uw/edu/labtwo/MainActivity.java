@@ -11,6 +11,7 @@ import android.view.MenuItem;
 
 /**
  * This is my change!!!
+ * Sencond change.
  */
 
 public class MainActivity extends AppCompatActivity {
@@ -53,4 +54,6 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    /** second change */
 }
